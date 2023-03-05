@@ -21,8 +21,8 @@ function App() {
       {
         label: "Scheduled",
         data: arrayOfAggregatedData.map((x) => x.length),
-        borderColor: "Green",
-        backgroundColor: "rgba(252, 100, 113, 0.5)",
+        borderColor: "Black",
+        backgroundColor: "green",
       },
     ],
   };
