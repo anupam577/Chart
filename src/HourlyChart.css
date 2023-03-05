@@ -1,7 +1,9 @@
 .backBtn {
   border-radius: 100%;
   color: white;
-  background: "green";
+/*   background: "green"; */
+  borderColor: "Black";
+  backgroundColor: "green";
   padding: 0.5rem;
   cursor: pointer;
   border: none;
