@@ -60,7 +60,7 @@ const HourlyChart = ({
         label: "Scheduled",
         data: hourlyScheduledData,
         borderColor: "rgba(252, 100, 113, 1)",
-        backgroundColor: "rgba(252, 100, 113, 0.5)",
+        backgroundColor: "green",
       },
     ],
   };
